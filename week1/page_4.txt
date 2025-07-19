@@ -1,0 +1,21 @@
+기존 Seq2Seq 모 델 들 의
+
+ㆍ 디 코 더 가 context vectorS 매번 참고할 수도 있습니다.
+
+71: good yz: evening y3: <eos>
+
+* 다만 여전히 AA 문 장 을 하 나 의 벡 터 에 압 축 해야 합니다. t ! ㅣ
+FC FC 빈
+a oo ‘
+oor 그 빼 …- = ae |
+「 hy eee = \ S2 \ 53 1
+tt | 1 t | fot ot
+ho —> RNN RNN RNN 4» RNN 4 RNN !
+I I I
+t + t = el el /
+로르 임 베 딩 임 베 딩 임 베 딩 고 정 된 크기 임 베 딩 ＊ 임 베 딩 ＊ 임 베 딩 ＊
+t t context vector t t t
+<sos> guten abend <eos> <sos> good evening
+독일어
+
+Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation (EMNLP 2014) 나 동보

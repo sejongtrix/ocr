@@ -1,0 +1,25 @@
+기존 56602560 모 델 들의 한계점
+
+ㆍ context vector 7 에 소스 문 장 의 정 보 를 압 축 합니다.
+
+ㆍ HE (bottleneck)O| 발생 락 으
+FC FC FC
+t t t
+i 「 hg Sy S2 53
+1 | 1 Lt | t t t t
+ho —> RNN RNN RNN RNN RNN
+t in t t t t
+as 임 베 딩 AHS 임 베 딩 고 정 된 크기 임 베 딩 임 베 딩 임 베 딩
+t t context vector t t t
+<sos> guten abend <eos> <sos> good evening
+독일어 영어
+나 동 빈
+
+Sequence to Sequence Learning with Neural Networks (NIPS 2014)
+
+t
+PAotO| 성능 하 락 의 원 인 이 됩니다.
+
+71: good yz: evening y3: <eos>
+
+| [ t

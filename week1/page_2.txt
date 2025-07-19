@@ -1,0 +1,14 @@
+Bel'd 기 반 의 기계 번역 발전 과정
+
+ㆍ 2021 년 기 준 으 로 죄 신 고성능 DHS Transformer 아 키 텍 저 를 기 반 으 로 하고 있습니다.
+ㆍ GPT: Transformer2| C/G (Decoder) 아 키 텍 처 를 활용
+
+ㆍ BERT: Transformer®| 인 코 더 (00006) 아 키 텍 저 를 활용
+
+——_o—\__0—____ 000 _®
+
+RNN LSTM Seq2Seq Attention Transformer  GPT-1 BERT GPT-3
+(1986) (1997) — (NIPS 2014) [ (ICLR 2015) (NIPS 2017) (2018) (NAACL 2019) (2020)
+고 정 된 크 기 의 입력 시 퀸스 전 체 에서 정 보 를 추 출 하는 방 향 으로 발전
+
+context vector 사용
