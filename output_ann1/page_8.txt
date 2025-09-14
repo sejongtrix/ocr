@@ -1,0 +1,95 @@
+Image: page_8.jpg
+Original Size: 2667 x 1500
+--------------------------------------------------
+Total detections: 10
+
+Detection 1:
+  Class: abandon (ID: 2)
+  Confidence: 0.6953
+  Bounding Box (pixels):
+    Top-left: (2522.1, 1424.8)
+    Bottom-right: (2651.3, 1480.0)
+    Center: (2586.7, 1452.4)
+    Size: 129.2 x 55.1
+
+Detection 2:
+  Class: title (ID: 0)
+  Confidence: 0.5135
+  Bounding Box (pixels):
+    Top-left: (95.9, 122.5)
+    Bottom-right: (1430.1, 215.3)
+    Center: (763.0, 168.9)
+    Size: 1334.1 x 92.8
+
+Detection 3:
+  Class: isolate_formula (ID: 8)
+  Confidence: 0.4666
+  Bounding Box (pixels):
+    Top-left: (590.5, 1008.1)
+    Bottom-right: (1097.4, 1281.2)
+    Center: (843.9, 1144.7)
+    Size: 506.9 x 273.1
+
+Detection 4:
+  Class: figure (ID: 3)
+  Confidence: 0.4474
+  Bounding Box (pixels):
+    Top-left: (1393.1, 314.9)
+    Bottom-right: (2219.4, 1301.7)
+    Center: (1806.3, 808.3)
+    Size: 826.3 x 986.8
+
+Detection 5:
+  Class: figure (ID: 3)
+  Confidence: 0.4043
+  Bounding Box (pixels):
+    Top-left: (676.7, 775.2)
+    Bottom-right: (992.4, 956.5)
+    Center: (834.5, 865.8)
+    Size: 315.8 x 181.3
+
+Detection 6:
+  Class: plain text (ID: 1)
+  Confidence: 0.3686
+  Bounding Box (pixels):
+    Top-left: (129.2, 484.9)
+    Bottom-right: (1341.6, 692.1)
+    Center: (735.4, 588.5)
+    Size: 1212.4 x 207.2
+
+Detection 7:
+  Class: abandon (ID: 2)
+  Confidence: 0.3520
+  Bounding Box (pixels):
+    Top-left: (14.4, 1421.4)
+    Bottom-right: (1672.3, 1485.5)
+    Center: (843.4, 1453.4)
+    Size: 1657.9 x 64.1
+
+Detection 8:
+  Class: plain text (ID: 1)
+  Confidence: 0.3431
+  Bounding Box (pixels):
+    Top-left: (2169.9, 992.7)
+    Bottom-right: (2545.0, 1058.1)
+    Center: (2357.4, 1025.4)
+    Size: 375.0 x 65.3
+
+Detection 9:
+  Class: plain text (ID: 1)
+  Confidence: 0.3345
+  Bounding Box (pixels):
+    Top-left: (14.4, 1421.4)
+    Bottom-right: (1672.3, 1485.5)
+    Center: (843.4, 1453.4)
+    Size: 1657.9 x 64.1
+
+Detection 10:
+  Class: plain text (ID: 1)
+  Confidence: 0.2871
+  Bounding Box (pixels):
+    Top-left: (183.6, 836.6)
+    Bottom-right: (641.0, 901.1)
+    Center: (412.3, 868.8)
+    Size: 457.4 x 64.5
+

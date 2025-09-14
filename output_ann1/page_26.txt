@@ -1,0 +1,77 @@
+Image: page_26.jpg
+Original Size: 2667 x 1500
+--------------------------------------------------
+Total detections: 8
+
+Detection 1:
+  Class: figure (ID: 3)
+  Confidence: 0.8918
+  Bounding Box (pixels):
+    Top-left: (264.7, 478.9)
+    Bottom-right: (2500.1, 898.6)
+    Center: (1382.4, 688.7)
+    Size: 2235.5 x 419.7
+
+Detection 2:
+  Class: plain text (ID: 1)
+  Confidence: 0.8852
+  Bounding Box (pixels):
+    Top-left: (131.5, 999.7)
+    Bottom-right: (2443.5, 1087.2)
+    Center: (1287.5, 1043.5)
+    Size: 2312.0 x 87.5
+
+Detection 3:
+  Class: plain text (ID: 1)
+  Confidence: 0.8725
+  Bounding Box (pixels):
+    Top-left: (131.2, 317.7)
+    Bottom-right: (2079.8, 405.1)
+    Center: (1105.5, 361.4)
+    Size: 1948.6 x 87.4
+
+Detection 4:
+  Class: abandon (ID: 2)
+  Confidence: 0.7859
+  Bounding Box (pixels):
+    Top-left: (2523.6, 1425.3)
+    Bottom-right: (2652.1, 1479.0)
+    Center: (2587.9, 1452.1)
+    Size: 128.5 x 53.7
+
+Detection 5:
+  Class: abandon (ID: 2)
+  Confidence: 0.6501
+  Bounding Box (pixels):
+    Top-left: (16.4, 1422.7)
+    Bottom-right: (787.0, 1479.6)
+    Center: (401.7, 1451.2)
+    Size: 770.5 x 56.9
+
+Detection 6:
+  Class: title (ID: 0)
+  Confidence: 0.5238
+  Bounding Box (pixels):
+    Top-left: (96.0, 118.6)
+    Bottom-right: (1940.2, 216.0)
+    Center: (1018.1, 167.3)
+    Size: 1844.2 x 97.4
+
+Detection 7:
+  Class: title (ID: 0)
+  Confidence: 0.5008
+  Bounding Box (pixels):
+    Top-left: (105.2, 120.6)
+    Bottom-right: (1935.2, 214.7)
+    Center: (1020.2, 167.6)
+    Size: 1830.0 x 94.0
+
+Detection 8:
+  Class: title (ID: 0)
+  Confidence: 0.2620
+  Bounding Box (pixels):
+    Top-left: (96.3, 119.5)
+    Bottom-right: (2003.5, 212.9)
+    Center: (1049.9, 166.2)
+    Size: 1907.2 x 93.4
+

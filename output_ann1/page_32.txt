@@ -1,0 +1,104 @@
+Image: page_32.jpg
+Original Size: 2667 x 1500
+--------------------------------------------------
+Total detections: 11
+
+Detection 1:
+  Class: plain text (ID: 1)
+  Confidence: 0.8714
+  Bounding Box (pixels):
+    Top-left: (132.1, 318.4)
+    Bottom-right: (2119.8, 404.7)
+    Center: (1126.0, 361.6)
+    Size: 1987.8 x 86.3
+
+Detection 2:
+  Class: abandon (ID: 2)
+  Confidence: 0.7509
+  Bounding Box (pixels):
+    Top-left: (2523.2, 1425.3)
+    Bottom-right: (2651.7, 1479.2)
+    Center: (2587.5, 1452.2)
+    Size: 128.6 x 54.0
+
+Detection 3:
+  Class: abandon (ID: 2)
+  Confidence: 0.6384
+  Bounding Box (pixels):
+    Top-left: (16.2, 1423.0)
+    Bottom-right: (788.0, 1479.8)
+    Center: (402.1, 1451.4)
+    Size: 771.8 x 56.8
+
+Detection 4:
+  Class: title (ID: 0)
+  Confidence: 0.5607
+  Bounding Box (pixels):
+    Top-left: (95.3, 118.6)
+    Bottom-right: (1437.6, 213.4)
+    Center: (766.4, 166.0)
+    Size: 1342.3 x 94.8
+
+Detection 5:
+  Class: figure (ID: 3)
+  Confidence: 0.5078
+  Bounding Box (pixels):
+    Top-left: (1458.7, 812.4)
+    Bottom-right: (2454.0, 1270.8)
+    Center: (1956.4, 1041.6)
+    Size: 995.3 x 458.4
+
+Detection 6:
+  Class: plain text (ID: 1)
+  Confidence: 0.4311
+  Bounding Box (pixels):
+    Top-left: (1583.1, 1289.0)
+    Bottom-right: (2332.0, 1354.0)
+    Center: (1957.5, 1321.5)
+    Size: 748.8 x 65.0
+
+Detection 7:
+  Class: plain text (ID: 1)
+  Confidence: 0.4182
+  Bounding Box (pixels):
+    Top-left: (234.3, 443.2)
+    Bottom-right: (1435.6, 684.2)
+    Center: (834.9, 563.7)
+    Size: 1201.3 x 241.1
+
+Detection 8:
+  Class: figure (ID: 3)
+  Confidence: 0.3021
+  Bounding Box (pixels):
+    Top-left: (113.0, 754.9)
+    Bottom-right: (1249.4, 1337.5)
+    Center: (681.2, 1046.2)
+    Size: 1136.5 x 582.5
+
+Detection 9:
+  Class: title (ID: 0)
+  Confidence: 0.2601
+  Bounding Box (pixels):
+    Top-left: (96.5, 119.6)
+    Bottom-right: (1439.6, 214.7)
+    Center: (768.0, 167.1)
+    Size: 1343.1 x 95.0
+
+Detection 10:
+  Class: plain text (ID: 1)
+  Confidence: 0.2409
+  Bounding Box (pixels):
+    Top-left: (241.5, 444.9)
+    Bottom-right: (1359.9, 540.1)
+    Center: (800.7, 492.5)
+    Size: 1118.3 x 95.2
+
+Detection 11:
+  Class: plain text (ID: 1)
+  Confidence: 0.2384
+  Bounding Box (pixels):
+    Top-left: (242.4, 585.3)
+    Bottom-right: (1430.6, 682.5)
+    Center: (836.5, 633.9)
+    Size: 1188.2 x 97.2
+

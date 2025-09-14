@@ -1,0 +1,32 @@
+Image: _학습자료__서울대소장품감상하기_page-0005.jpg
+Original Size: 2000 x 1125
+--------------------------------------------------
+Total detections: 3
+
+Detection 1:
+  Class: figure (ID: 3)
+  Confidence: 0.9048
+  Bounding Box (pixels):
+    Top-left: (141.6, 181.7)
+    Bottom-right: (866.0, 902.4)
+    Center: (503.8, 542.1)
+    Size: 724.4 x 720.7
+
+Detection 2:
+  Class: plain text (ID: 1)
+  Confidence: 0.3289
+  Bounding Box (pixels):
+    Top-left: (914.8, 632.2)
+    Bottom-right: (1951.9, 839.9)
+    Center: (1433.4, 736.1)
+    Size: 1037.1 x 207.6
+
+Detection 3:
+  Class: abandon (ID: 2)
+  Confidence: 0.2253
+  Bounding Box (pixels):
+    Top-left: (1809.9, 23.3)
+    Bottom-right: (1957.8, 169.4)
+    Center: (1883.8, 96.3)
+    Size: 148.0 x 146.1
+

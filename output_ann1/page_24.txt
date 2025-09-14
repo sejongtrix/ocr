@@ -1,0 +1,50 @@
+Image: page_24.jpg
+Original Size: 2667 x 1500
+--------------------------------------------------
+Total detections: 5
+
+Detection 1:
+  Class: plain text (ID: 1)
+  Confidence: 0.8809
+  Bounding Box (pixels):
+    Top-left: (130.2, 318.0)
+    Bottom-right: (2006.0, 404.9)
+    Center: (1068.1, 361.5)
+    Size: 1875.8 x 86.9
+
+Detection 2:
+  Class: figure (ID: 3)
+  Confidence: 0.8476
+  Bounding Box (pixels):
+    Top-left: (265.4, 431.8)
+    Bottom-right: (2322.3, 1353.0)
+    Center: (1293.8, 892.4)
+    Size: 2056.9 x 921.2
+
+Detection 3:
+  Class: title (ID: 0)
+  Confidence: 0.8269
+  Bounding Box (pixels):
+    Top-left: (95.6, 116.6)
+    Bottom-right: (1941.2, 217.6)
+    Center: (1018.4, 167.1)
+    Size: 1845.5 x 100.9
+
+Detection 4:
+  Class: abandon (ID: 2)
+  Confidence: 0.7277
+  Bounding Box (pixels):
+    Top-left: (2523.0, 1425.1)
+    Bottom-right: (2651.5, 1479.4)
+    Center: (2587.2, 1452.3)
+    Size: 128.5 x 54.3
+
+Detection 5:
+  Class: abandon (ID: 2)
+  Confidence: 0.6988
+  Bounding Box (pixels):
+    Top-left: (15.1, 1422.9)
+    Bottom-right: (787.8, 1479.9)
+    Center: (401.5, 1451.4)
+    Size: 772.7 x 57.0
+

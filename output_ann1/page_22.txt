@@ -1,0 +1,86 @@
+Image: page_22.jpg
+Original Size: 2667 x 1500
+--------------------------------------------------
+Total detections: 9
+
+Detection 1:
+  Class: figure (ID: 3)
+  Confidence: 0.8834
+  Bounding Box (pixels):
+    Top-left: (362.0, 648.6)
+    Bottom-right: (2159.8, 1350.5)
+    Center: (1260.9, 999.5)
+    Size: 1797.8 x 701.9
+
+Detection 2:
+  Class: plain text (ID: 1)
+  Confidence: 0.8359
+  Bounding Box (pixels):
+    Top-left: (129.3, 319.4)
+    Bottom-right: (1758.7, 403.6)
+    Center: (944.0, 361.5)
+    Size: 1629.5 x 84.2
+
+Detection 3:
+  Class: title (ID: 0)
+  Confidence: 0.8263
+  Bounding Box (pixels):
+    Top-left: (96.7, 116.1)
+    Bottom-right: (2139.0, 217.7)
+    Center: (1117.8, 166.9)
+    Size: 2042.3 x 101.5
+
+Detection 4:
+  Class: abandon (ID: 2)
+  Confidence: 0.7413
+  Bounding Box (pixels):
+    Top-left: (2523.0, 1425.0)
+    Bottom-right: (2652.8, 1479.4)
+    Center: (2587.9, 1452.2)
+    Size: 129.8 x 54.3
+
+Detection 5:
+  Class: abandon (ID: 2)
+  Confidence: 0.7255
+  Bounding Box (pixels):
+    Top-left: (15.7, 1422.9)
+    Bottom-right: (788.0, 1480.1)
+    Center: (401.8, 1451.5)
+    Size: 772.3 x 57.1
+
+Detection 6:
+  Class: plain text (ID: 1)
+  Confidence: 0.5943
+  Bounding Box (pixels):
+    Top-left: (134.3, 430.6)
+    Bottom-right: (1730.5, 514.1)
+    Center: (932.4, 472.3)
+    Size: 1596.2 x 83.5
+
+Detection 7:
+  Class: plain text (ID: 1)
+  Confidence: 0.3326
+  Bounding Box (pixels):
+    Top-left: (221.2, 542.5)
+    Bottom-right: (1812.8, 627.9)
+    Center: (1017.0, 585.2)
+    Size: 1591.6 x 85.4
+
+Detection 8:
+  Class: plain text (ID: 1)
+  Confidence: 0.3292
+  Bounding Box (pixels):
+    Top-left: (521.7, 543.8)
+    Bottom-right: (1769.7, 624.3)
+    Center: (1145.7, 584.0)
+    Size: 1248.0 x 80.6
+
+Detection 9:
+  Class: plain text (ID: 1)
+  Confidence: 0.2788
+  Bounding Box (pixels):
+    Top-left: (131.3, 430.5)
+    Bottom-right: (1798.8, 628.9)
+    Center: (965.0, 529.7)
+    Size: 1667.5 x 198.4
+

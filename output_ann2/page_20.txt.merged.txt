@@ -1,0 +1,5 @@
+Image: page_20
+Original Size: WIDTH x HEIGHT
+--------------------------------------------------
+Total detections: 0
+

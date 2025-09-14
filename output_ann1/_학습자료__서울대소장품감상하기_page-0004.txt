@@ -1,0 +1,95 @@
+Image: _학습자료__서울대소장품감상하기_page-0004.jpg
+Original Size: 2000 x 1125
+--------------------------------------------------
+Total detections: 10
+
+Detection 1:
+  Class: abandon (ID: 2)
+  Confidence: 0.7221
+  Bounding Box (pixels):
+    Top-left: (1813.3, 28.4)
+    Bottom-right: (1957.4, 168.6)
+    Center: (1885.3, 98.5)
+    Size: 144.1 x 140.2
+
+Detection 2:
+  Class: title (ID: 0)
+  Confidence: 0.6744
+  Bounding Box (pixels):
+    Top-left: (137.3, 47.7)
+    Bottom-right: (1321.2, 152.3)
+    Center: (729.3, 100.0)
+    Size: 1183.9 x 104.6
+
+Detection 3:
+  Class: plain text (ID: 1)
+  Confidence: 0.5568
+  Bounding Box (pixels):
+    Top-left: (247.9, 330.0)
+    Bottom-right: (1411.9, 655.4)
+    Center: (829.9, 492.7)
+    Size: 1164.0 x 325.4
+
+Detection 4:
+  Class: title (ID: 0)
+  Confidence: 0.5311
+  Bounding Box (pixels):
+    Top-left: (189.5, 244.4)
+    Bottom-right: (495.5, 308.6)
+    Center: (342.5, 276.5)
+    Size: 306.0 x 64.2
+
+Detection 5:
+  Class: plain text (ID: 1)
+  Confidence: 0.3569
+  Bounding Box (pixels):
+    Top-left: (258.3, 589.7)
+    Bottom-right: (1413.8, 656.1)
+    Center: (836.1, 622.9)
+    Size: 1155.5 x 66.3
+
+Detection 6:
+  Class: abandon (ID: 2)
+  Confidence: 0.3447
+  Bounding Box (pixels):
+    Top-left: (48.2, 46.7)
+    Bottom-right: (145.5, 146.4)
+    Center: (96.8, 96.5)
+    Size: 97.3 x 99.7
+
+Detection 7:
+  Class: plain text (ID: 1)
+  Confidence: 0.3030
+  Bounding Box (pixels):
+    Top-left: (263.5, 504.2)
+    Bottom-right: (899.3, 568.3)
+    Center: (581.4, 536.3)
+    Size: 635.9 x 64.0
+
+Detection 8:
+  Class: plain text (ID: 1)
+  Confidence: 0.2649
+  Bounding Box (pixels):
+    Top-left: (266.6, 417.5)
+    Bottom-right: (1195.2, 482.5)
+    Center: (730.9, 450.0)
+    Size: 928.7 x 65.0
+
+Detection 9:
+  Class: plain text (ID: 1)
+  Confidence: 0.2466
+  Bounding Box (pixels):
+    Top-left: (260.5, 332.1)
+    Bottom-right: (1226.5, 397.8)
+    Center: (743.5, 364.9)
+    Size: 966.0 x 65.7
+
+Detection 10:
+  Class: abandon (ID: 2)
+  Confidence: 0.2275
+  Bounding Box (pixels):
+    Top-left: (48.6, 47.6)
+    Bottom-right: (142.5, 143.8)
+    Center: (95.6, 95.7)
+    Size: 93.9 x 96.2
+

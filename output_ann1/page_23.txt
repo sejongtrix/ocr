@@ -1,0 +1,59 @@
+Image: page_23.jpg
+Original Size: 2667 x 1500
+--------------------------------------------------
+Total detections: 6
+
+Detection 1:
+  Class: figure (ID: 3)
+  Confidence: 0.7747
+  Bounding Box (pixels):
+    Top-left: (169.2, 553.2)
+    Bottom-right: (2568.6, 1331.7)
+    Center: (1368.9, 942.4)
+    Size: 2399.4 x 778.5
+
+Detection 2:
+  Class: abandon (ID: 2)
+  Confidence: 0.6473
+  Bounding Box (pixels):
+    Top-left: (2523.0, 1424.7)
+    Bottom-right: (2653.8, 1479.9)
+    Center: (2588.4, 1452.3)
+    Size: 130.8 x 55.2
+
+Detection 3:
+  Class: abandon (ID: 2)
+  Confidence: 0.5780
+  Bounding Box (pixels):
+    Top-left: (16.1, 1422.5)
+    Bottom-right: (788.5, 1480.7)
+    Center: (402.3, 1451.6)
+    Size: 772.4 x 58.2
+
+Detection 4:
+  Class: title (ID: 0)
+  Confidence: 0.4727
+  Bounding Box (pixels):
+    Top-left: (94.1, 115.8)
+    Bottom-right: (2200.2, 217.8)
+    Center: (1147.1, 166.8)
+    Size: 2106.2 x 101.9
+
+Detection 5:
+  Class: plain text (ID: 1)
+  Confidence: 0.3252
+  Bounding Box (pixels):
+    Top-left: (154.1, 332.8)
+    Bottom-right: (1455.7, 494.4)
+    Center: (804.9, 413.6)
+    Size: 1301.5 x 161.6
+
+Detection 6:
+  Class: title (ID: 0)
+  Confidence: 0.3089
+  Bounding Box (pixels):
+    Top-left: (97.3, 115.9)
+    Bottom-right: (2304.0, 217.2)
+    Center: (1200.7, 166.6)
+    Size: 2206.7 x 101.3
+

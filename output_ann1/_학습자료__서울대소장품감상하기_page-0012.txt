@@ -1,0 +1,95 @@
+Image: _학습자료__서울대소장품감상하기_page-0012.jpg
+Original Size: 2000 x 1125
+--------------------------------------------------
+Total detections: 10
+
+Detection 1:
+  Class: abandon (ID: 2)
+  Confidence: 0.7347
+  Bounding Box (pixels):
+    Top-left: (1813.3, 28.3)
+    Bottom-right: (1957.1, 168.6)
+    Center: (1885.2, 98.5)
+    Size: 143.9 x 140.3
+
+Detection 2:
+  Class: title (ID: 0)
+  Confidence: 0.7158
+  Bounding Box (pixels):
+    Top-left: (150.4, 46.8)
+    Bottom-right: (1052.9, 150.3)
+    Center: (601.7, 98.5)
+    Size: 902.5 x 103.5
+
+Detection 3:
+  Class: title (ID: 0)
+  Confidence: 0.6718
+  Bounding Box (pixels):
+    Top-left: (192.0, 241.0)
+    Bottom-right: (514.5, 310.9)
+    Center: (353.3, 276.0)
+    Size: 322.5 x 69.9
+
+Detection 4:
+  Class: plain text (ID: 1)
+  Confidence: 0.4194
+  Bounding Box (pixels):
+    Top-left: (261.9, 418.0)
+    Bottom-right: (995.7, 483.2)
+    Center: (628.8, 450.6)
+    Size: 733.7 x 65.2
+
+Detection 5:
+  Class: plain text (ID: 1)
+  Confidence: 0.4172
+  Bounding Box (pixels):
+    Top-left: (266.7, 504.3)
+    Bottom-right: (1191.0, 568.6)
+    Center: (728.8, 536.4)
+    Size: 924.3 x 64.3
+
+Detection 6:
+  Class: plain text (ID: 1)
+  Confidence: 0.4169
+  Bounding Box (pixels):
+    Top-left: (257.7, 332.2)
+    Bottom-right: (1377.2, 399.6)
+    Center: (817.4, 365.9)
+    Size: 1119.5 x 67.4
+
+Detection 7:
+  Class: plain text (ID: 1)
+  Confidence: 0.3907
+  Bounding Box (pixels):
+    Top-left: (249.6, 352.8)
+    Bottom-right: (1717.2, 823.2)
+    Center: (983.4, 588.0)
+    Size: 1467.6 x 470.3
+
+Detection 8:
+  Class: plain text (ID: 1)
+  Confidence: 0.3633
+  Bounding Box (pixels):
+    Top-left: (260.5, 588.3)
+    Bottom-right: (1721.8, 654.5)
+    Center: (991.1, 621.4)
+    Size: 1461.3 x 66.2
+
+Detection 9:
+  Class: abandon (ID: 2)
+  Confidence: 0.3435
+  Bounding Box (pixels):
+    Top-left: (48.5, 47.2)
+    Bottom-right: (145.7, 146.4)
+    Center: (97.1, 96.8)
+    Size: 97.2 x 99.1
+
+Detection 10:
+  Class: plain text (ID: 1)
+  Confidence: 0.2380
+  Bounding Box (pixels):
+    Top-left: (261.2, 674.4)
+    Bottom-right: (1667.8, 741.7)
+    Center: (964.5, 708.1)
+    Size: 1406.6 x 67.3
+

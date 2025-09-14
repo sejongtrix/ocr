@@ -1,0 +1,86 @@
+Image: page_9.jpg
+Original Size: 2667 x 1500
+--------------------------------------------------
+Total detections: 9
+
+Detection 1:
+  Class: plain text (ID: 1)
+  Confidence: 0.8677
+  Bounding Box (pixels):
+    Top-left: (125.7, 318.1)
+    Bottom-right: (2483.9, 405.2)
+    Center: (1304.8, 361.7)
+    Size: 2358.2 x 87.2
+
+Detection 2:
+  Class: title (ID: 0)
+  Confidence: 0.8066
+  Bounding Box (pixels):
+    Top-left: (105.7, 122.0)
+    Bottom-right: (1315.2, 213.8)
+    Center: (710.4, 167.9)
+    Size: 1209.5 x 91.8
+
+Detection 3:
+  Class: abandon (ID: 2)
+  Confidence: 0.7123
+  Bounding Box (pixels):
+    Top-left: (2522.8, 1425.7)
+    Bottom-right: (2649.7, 1479.1)
+    Center: (2586.2, 1452.4)
+    Size: 126.9 x 53.5
+
+Detection 4:
+  Class: plain text (ID: 1)
+  Confidence: 0.3883
+  Bounding Box (pixels):
+    Top-left: (230.4, 435.7)
+    Bottom-right: (803.4, 510.6)
+    Center: (516.9, 473.2)
+    Size: 573.0 x 74.9
+
+Detection 5:
+  Class: figure (ID: 3)
+  Confidence: 0.3726
+  Bounding Box (pixels):
+    Top-left: (698.0, 438.2)
+    Bottom-right: (2477.4, 1338.0)
+    Center: (1587.7, 888.1)
+    Size: 1779.4 x 899.8
+
+Detection 6:
+  Class: plain text (ID: 1)
+  Confidence: 0.3647
+  Bounding Box (pixels):
+    Top-left: (16.2, 1422.8)
+    Bottom-right: (1672.4, 1484.0)
+    Center: (844.3, 1453.4)
+    Size: 1656.2 x 61.2
+
+Detection 7:
+  Class: figure (ID: 3)
+  Confidence: 0.3393
+  Bounding Box (pixels):
+    Top-left: (1601.6, 436.2)
+    Bottom-right: (2477.6, 1325.4)
+    Center: (2039.6, 880.8)
+    Size: 876.0 x 889.2
+
+Detection 8:
+  Class: abandon (ID: 2)
+  Confidence: 0.3243
+  Bounding Box (pixels):
+    Top-left: (16.2, 1422.8)
+    Bottom-right: (1672.4, 1484.0)
+    Center: (844.3, 1453.4)
+    Size: 1656.2 x 61.2
+
+Detection 9:
+  Class: figure (ID: 3)
+  Confidence: 0.2984
+  Bounding Box (pixels):
+    Top-left: (708.3, 466.0)
+    Bottom-right: (1534.0, 1320.8)
+    Center: (1121.2, 893.4)
+    Size: 825.7 x 854.8
+

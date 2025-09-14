@@ -1,0 +1,50 @@
+Image: page_11.jpg
+Original Size: 2667 x 1500
+--------------------------------------------------
+Total detections: 5
+
+Detection 1:
+  Class: figure (ID: 3)
+  Confidence: 0.9383
+  Bounding Box (pixels):
+    Top-left: (1667.7, 37.7)
+    Bottom-right: (2642.4, 1471.2)
+    Center: (2155.0, 754.5)
+    Size: 974.7 x 1433.5
+
+Detection 2:
+  Class: title (ID: 0)
+  Confidence: 0.8748
+  Bounding Box (pixels):
+    Top-left: (98.5, 121.2)
+    Bottom-right: (875.5, 211.4)
+    Center: (487.0, 166.3)
+    Size: 777.0 x 90.2
+
+Detection 3:
+  Class: abandon (ID: 2)
+  Confidence: 0.6414
+  Bounding Box (pixels):
+    Top-left: (15.4, 1423.1)
+    Bottom-right: (787.4, 1480.0)
+    Center: (401.4, 1451.6)
+    Size: 772.0 x 56.8
+
+Detection 4:
+  Class: plain text (ID: 1)
+  Confidence: 0.4254
+  Bounding Box (pixels):
+    Top-left: (125.3, 318.2)
+    Bottom-right: (1622.3, 846.5)
+    Center: (873.8, 582.3)
+    Size: 1497.1 x 528.2
+
+Detection 5:
+  Class: plain text (ID: 1)
+  Confidence: 0.2822
+  Bounding Box (pixels):
+    Top-left: (132.8, 319.1)
+    Bottom-right: (1607.5, 513.8)
+    Center: (870.1, 416.4)
+    Size: 1474.7 x 194.7
+

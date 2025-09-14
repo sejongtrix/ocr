@@ -1,0 +1,50 @@
+Image: page_15.jpg
+Original Size: 2667 x 1500
+--------------------------------------------------
+Total detections: 5
+
+Detection 1:
+  Class: figure (ID: 3)
+  Confidence: 0.9461
+  Bounding Box (pixels):
+    Top-left: (407.1, 438.9)
+    Bottom-right: (1793.7, 1344.4)
+    Center: (1100.4, 891.7)
+    Size: 1386.5 x 905.6
+
+Detection 2:
+  Class: plain text (ID: 1)
+  Confidence: 0.9085
+  Bounding Box (pixels):
+    Top-left: (131.8, 319.3)
+    Bottom-right: (1803.9, 403.6)
+    Center: (967.9, 361.5)
+    Size: 1672.2 x 84.3
+
+Detection 3:
+  Class: title (ID: 0)
+  Confidence: 0.8333
+  Bounding Box (pixels):
+    Top-left: (97.4, 119.0)
+    Bottom-right: (1299.2, 213.9)
+    Center: (698.3, 166.4)
+    Size: 1201.8 x 94.9
+
+Detection 4:
+  Class: abandon (ID: 2)
+  Confidence: 0.7334
+  Bounding Box (pixels):
+    Top-left: (2523.4, 1425.4)
+    Bottom-right: (2652.1, 1479.2)
+    Center: (2587.8, 1452.3)
+    Size: 128.7 x 53.8
+
+Detection 5:
+  Class: abandon (ID: 2)
+  Confidence: 0.5345
+  Bounding Box (pixels):
+    Top-left: (16.5, 1423.1)
+    Bottom-right: (788.1, 1479.8)
+    Center: (402.3, 1451.5)
+    Size: 771.6 x 56.8
+

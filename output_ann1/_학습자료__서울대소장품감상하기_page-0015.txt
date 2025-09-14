@@ -1,0 +1,104 @@
+Image: _학습자료__서울대소장품감상하기_page-0015.jpg
+Original Size: 2000 x 1125
+--------------------------------------------------
+Total detections: 11
+
+Detection 1:
+  Class: abandon (ID: 2)
+  Confidence: 0.6718
+  Bounding Box (pixels):
+    Top-left: (1813.1, 28.2)
+    Bottom-right: (1957.7, 168.8)
+    Center: (1885.4, 98.5)
+    Size: 144.6 x 140.6
+
+Detection 2:
+  Class: plain text (ID: 1)
+  Confidence: 0.6620
+  Bounding Box (pixels):
+    Top-left: (256.3, 332.1)
+    Bottom-right: (1317.7, 398.9)
+    Center: (787.0, 365.5)
+    Size: 1061.4 x 66.8
+
+Detection 3:
+  Class: title (ID: 0)
+  Confidence: 0.6346
+  Bounding Box (pixels):
+    Top-left: (149.4, 44.8)
+    Bottom-right: (1072.6, 151.1)
+    Center: (611.0, 97.9)
+    Size: 923.2 x 106.3
+
+Detection 4:
+  Class: plain text (ID: 1)
+  Confidence: 0.5963
+  Bounding Box (pixels):
+    Top-left: (260.2, 504.4)
+    Bottom-right: (879.0, 567.9)
+    Center: (569.6, 536.1)
+    Size: 618.8 x 63.5
+
+Detection 5:
+  Class: plain text (ID: 1)
+  Confidence: 0.5730
+  Bounding Box (pixels):
+    Top-left: (265.3, 417.9)
+    Bottom-right: (879.5, 481.5)
+    Center: (572.4, 449.7)
+    Size: 614.2 x 63.6
+
+Detection 6:
+  Class: plain text (ID: 1)
+  Confidence: 0.4727
+  Bounding Box (pixels):
+    Top-left: (263.1, 589.8)
+    Bottom-right: (1141.2, 655.1)
+    Center: (702.1, 622.4)
+    Size: 878.1 x 65.4
+
+Detection 7:
+  Class: title (ID: 0)
+  Confidence: 0.4280
+  Bounding Box (pixels):
+    Top-left: (194.8, 240.4)
+    Bottom-right: (515.1, 311.1)
+    Center: (354.9, 275.8)
+    Size: 320.3 x 70.7
+
+Detection 8:
+  Class: title (ID: 0)
+  Confidence: 0.3796
+  Bounding Box (pixels):
+    Top-left: (135.4, 45.8)
+    Bottom-right: (1076.7, 151.5)
+    Center: (606.0, 98.7)
+    Size: 941.3 x 105.7
+
+Detection 9:
+  Class: abandon (ID: 2)
+  Confidence: 0.3752
+  Bounding Box (pixels):
+    Top-left: (48.6, 47.2)
+    Bottom-right: (145.8, 146.7)
+    Center: (97.2, 97.0)
+    Size: 97.2 x 99.6
+
+Detection 10:
+  Class: plain text (ID: 1)
+  Confidence: 0.2890
+  Bounding Box (pixels):
+    Top-left: (238.4, 330.3)
+    Bottom-right: (1333.4, 654.8)
+    Center: (785.9, 492.6)
+    Size: 1095.0 x 324.5
+
+Detection 11:
+  Class: abandon (ID: 2)
+  Confidence: 0.2033
+  Bounding Box (pixels):
+    Top-left: (48.9, 48.3)
+    Bottom-right: (142.6, 144.1)
+    Center: (95.8, 96.2)
+    Size: 93.7 x 95.8
+

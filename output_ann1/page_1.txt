@@ -1,0 +1,59 @@
+Image: page_1.jpg
+Original Size: 2667 x 1500
+--------------------------------------------------
+Total detections: 6
+
+Detection 1:
+  Class: title (ID: 0)
+  Confidence: 0.8101
+  Bounding Box (pixels):
+    Top-left: (573.4, 474.3)
+    Bottom-right: (2093.6, 643.9)
+    Center: (1333.5, 559.1)
+    Size: 1520.1 x 169.7
+
+Detection 2:
+  Class: plain text (ID: 1)
+  Confidence: 0.6440
+  Bounding Box (pixels):
+    Top-left: (401.0, 667.8)
+    Bottom-right: (2260.6, 779.6)
+    Center: (1330.8, 723.7)
+    Size: 1859.7 x 111.8
+
+Detection 3:
+  Class: plain text (ID: 1)
+  Confidence: 0.6125
+  Bounding Box (pixels):
+    Top-left: (886.0, 865.3)
+    Bottom-right: (1779.8, 933.5)
+    Center: (1332.9, 899.4)
+    Size: 893.9 x 68.1
+
+Detection 4:
+  Class: plain text (ID: 1)
+  Confidence: 0.4880
+  Bounding Box (pixels):
+    Top-left: (732.3, 965.1)
+    Bottom-right: (1928.5, 1033.7)
+    Center: (1330.4, 999.4)
+    Size: 1196.2 x 68.6
+
+Detection 5:
+  Class: plain text (ID: 1)
+  Confidence: 0.2685
+  Bounding Box (pixels):
+    Top-left: (2519.8, 1423.7)
+    Bottom-right: (2650.6, 1480.3)
+    Center: (2585.2, 1452.0)
+    Size: 130.8 x 56.6
+
+Detection 6:
+  Class: abandon (ID: 2)
+  Confidence: 0.2331
+  Bounding Box (pixels):
+    Top-left: (732.3, 965.1)
+    Bottom-right: (1928.5, 1033.7)
+    Center: (1330.4, 999.4)
+    Size: 1196.2 x 68.6
+

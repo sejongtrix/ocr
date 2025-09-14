@@ -1,0 +1,50 @@
+Image: page_14.jpg
+Original Size: 2667 x 1500
+--------------------------------------------------
+Total detections: 5
+
+Detection 1:
+  Class: figure (ID: 3)
+  Confidence: 0.9392
+  Bounding Box (pixels):
+    Top-left: (360.1, 496.3)
+    Bottom-right: (1796.3, 1261.6)
+    Center: (1078.2, 878.9)
+    Size: 1436.1 x 765.3
+
+Detection 2:
+  Class: plain text (ID: 1)
+  Confidence: 0.9093
+  Bounding Box (pixels):
+    Top-left: (131.6, 318.2)
+    Bottom-right: (1601.0, 404.1)
+    Center: (866.3, 361.2)
+    Size: 1469.4 x 85.9
+
+Detection 3:
+  Class: title (ID: 0)
+  Confidence: 0.8453
+  Bounding Box (pixels):
+    Top-left: (97.2, 118.6)
+    Bottom-right: (1299.6, 214.3)
+    Center: (698.4, 166.4)
+    Size: 1202.4 x 95.7
+
+Detection 4:
+  Class: abandon (ID: 2)
+  Confidence: 0.7594
+  Bounding Box (pixels):
+    Top-left: (2523.6, 1425.3)
+    Bottom-right: (2652.9, 1479.2)
+    Center: (2588.2, 1452.2)
+    Size: 129.3 x 53.9
+
+Detection 5:
+  Class: abandon (ID: 2)
+  Confidence: 0.6743
+  Bounding Box (pixels):
+    Top-left: (15.6, 1422.9)
+    Bottom-right: (788.1, 1480.0)
+    Center: (401.8, 1451.4)
+    Size: 772.4 x 57.1
+
